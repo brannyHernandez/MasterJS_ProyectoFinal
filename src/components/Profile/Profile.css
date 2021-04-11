@@ -1,0 +1,41 @@
+.profile-Container{
+    display: flex;
+    width: 450px;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.card-profile{
+    border-radius:50px;
+    border: solid thin #666;
+    display: block;
+    height:100px;
+    width:100px;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.flex-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    font-size: 11px;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  td:first-child { text-align: left; font-weight: bold; }

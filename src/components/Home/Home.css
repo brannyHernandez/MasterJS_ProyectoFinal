@@ -1,0 +1,31 @@
+.header{
+
+    border: solid thin;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cards{
+    display:block;
+    overflow: hidden;
+    float: left;
+}
+
+.container-publicaciones{
+    background-color:#fff;
+    width: 80%;
+    margin: auto;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.jumbotron{
+    background-image: url('../../assets/banner.jpg');
+    border: solid;
+    color: #fff;
+    height: 350px;
+    background-position-y: center;
+    background-position-x: center;
+}
+

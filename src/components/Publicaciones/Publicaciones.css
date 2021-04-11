@@ -1,0 +1,21 @@
+.header{
+    border: solid thin;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cards{
+    display:block;
+    overflow: hidden;
+    float: left;
+}
+
+.container-publicaciones{
+    background-color:#fff;
+    width: 80%;
+    margin: auto;
+    border-radius: 4px;
+    padding: 10px;
+}
+

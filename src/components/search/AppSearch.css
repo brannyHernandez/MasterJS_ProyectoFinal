@@ -1,0 +1,39 @@
+
+.ciudad{
+    display: block;
+    margin-bottom: 10px;
+    border: solid thin;
+    width: 60%;
+}
+
+.buscador{
+    padding: 10px;
+    width: 70%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.advanceSearch{
+    margin-bottom: 20px;
+}
+
+.input{
+    border-Radius: 4;
+}
+
+.input-ciudad{
+    border:solid #ccc;
+    width: 60%
+ 
+}
+
+.busqueda-avanzada{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.busqueda-avanzada > div {
+    align-self: flex-end;
+  }
+  

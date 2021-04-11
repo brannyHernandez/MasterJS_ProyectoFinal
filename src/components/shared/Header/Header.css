@@ -1,0 +1,9 @@
+.header{
+
+    display: block;
+}
+
+.header img{
+    margin-left: 10px;
+    width: 100px;
+}
